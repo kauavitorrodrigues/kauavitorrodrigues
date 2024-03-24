@@ -1,10 +1,10 @@
 ## Oi eu sou a Kauã, empreendedor na área de programação e tecnologia!
 
 <a href="https://github.com/kauavitorrodrigues/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kauavitorrodrigues&title_color=fff&text_color=999&bg_color=00000000" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=kauavitorrodrigues&title_color=fff&text_color=999&bg_color=00000000" />
 </a>
 <a href="https://github.com/kauavitorrodrigues/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kauavitorrodrigues&layout=compact&langs_count=8&card_width=320&title_color=fff&text_color=999&bg_color=00000000" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kauavitorrodrigues&layout=compact&langs_count=8&card_width=320&title_color=fff&text_color=999&bg_color=00000000" />
 </a>
 
 <div style="display: inline_block"><br>
