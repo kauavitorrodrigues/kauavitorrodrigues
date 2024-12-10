@@ -1,4 +1,4 @@
-## Oi eu sou a Kauã, empreendedor na área de programação e tecnologia!
+## Hi, I'm Kauã, an entrepreneur in the field of programming and technology!
 
 <a href="https://github.com/kauavitorrodrigues/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=kauavitorrodrigues&title_color=fff&text_color=999&bg_color=00000000" />
